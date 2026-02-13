@@ -43,3 +43,11 @@ This project was built to practice:
 - Managing state
 - Handling files
 - Writing clean and modular code
+
+Example:
+
+--> python contact_manager.py
+--- Contact Manager ---
+1. Add contact
+2. Show contacts
+...
